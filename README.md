@@ -9,6 +9,8 @@ Hi 👋
 
 I'm Mares. Planet Earth feels so strange to me.
 
+![Metrics](https://github.com/mareszhar/mareszhar/blob/main/github-metrics.svg)
+
 </p>
 
 <!--
