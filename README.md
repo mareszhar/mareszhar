@@ -1,4 +1,6 @@
-### Hi there 👋
+# Mares Zhar
+
+Hi, I'm Mares.
 
 <!--
 **mareszhar/mareszhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
