@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome To My Ship 👽</h1>
 
-<p>
+<p style="font-size: 40px">
 Hi 👋
 
 I'm Mares. Planet Earth feels so strange to me.
