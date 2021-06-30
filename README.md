@@ -11,6 +11,9 @@ I'm Mares. Planet Earth feels so strange to me.
 
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **mareszhar/mareszhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
