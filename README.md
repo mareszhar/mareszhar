@@ -9,7 +9,7 @@ Hi 👋
 
 I'm Mares. Planet Earth feels so strange to me.
 
-![Metrics](https://github.com/mareszhar/mareszhar/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/mareszhar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&habits=1&wakatime=1&achievements=1&languages=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&config.timezone=America%2FLa_Paz)
 
 </p>
 
