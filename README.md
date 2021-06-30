@@ -1,8 +1,15 @@
+<head>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+
 <h1 align="center">Welcome To My Ship 👽</h1>
 
+<p>
 Hi 👋
 
 I'm Mares. Planet Earth feels so strange to me.
+
+</p>
 
 <!--
 **mareszhar/mareszhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
