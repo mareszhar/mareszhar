@@ -1,6 +1,8 @@
-# Mares Zhar
+<h1 align="center">Welcome To My Ship 👽</h1>
 
-Hi, I'm Mares.
+Hi 👋
+
+I'm Mares. Planet Earth feels so strange to me.
 
 <!--
 **mareszhar/mareszhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
