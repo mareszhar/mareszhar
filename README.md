@@ -61,6 +61,8 @@
 
 ### [Let's talk.](mailto:mareszhar@gmail.com) _I'd love to hear from you_.
 
+<br>
+
 ---
 
 [sentismmedium]: https://medium.com/@mareszhar/born-a-prisoner-a-reflection-about-life-its-struggles-and-a-plan-to-escape-d8566ce9b026
