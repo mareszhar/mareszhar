@@ -1,6 +1,6 @@
-<h2 align="center">Welcome To My Ship :alien:</h2>
+<h2 align="center">Hi, I'm Mares :alien:</h2>
 
-#### Hi, I'm Mares. Planet Earth feels so strange to me.
+#### Planet Earth feels so strange to me.
 
 ### **Interests**
 
@@ -62,6 +62,5 @@
 
 <br>
 
----
 
 [sentismmedium]: https://medium.com/@mareszhar/born-a-prisoner-a-reflection-about-life-its-struggles-and-a-plan-to-escape-d8566ce9b026
