@@ -9,12 +9,14 @@
 - 💸 The future of money.
 - 💼 The future of work.
 - 🧠 Productivity, Habits, & Mindsets.
+- 💻 Tools that make creating new and better tools easier (especially in software).
 - 🥗 Transitioning humanity to a diet that doesn't harm animals.
+- 📚 The future of open, interactive, and personalized education.
 - 🌱 Sustainability, post-scarcity societies, resource-based economies.
-- ✨ Utopian and futuristic visions.
-- 🤖 AI-ruled societies, big data mining for self-aware civilizations.
+- 🤖 AI governance, big data mining for self-aware civilizations.
 - 👓 Virtual reality, mind uploading, virtual worlds, digitalization.
 - 🐵 Platformed evolution, transhumanism, accelerated development.
+- ✨ Utopian and futuristic visions.
 - 💀 Death, euthanasia, sentience, nothingness, definitive ends.
 
 
