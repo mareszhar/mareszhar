@@ -64,6 +64,11 @@
 
 <h1></h1>
 
+<img src="https://wakatime.com/share/@mares/5df0ff02-9c79-41b4-b540-51dc9c65a57b.svg" alt="Coding activity over the last 30 days" />
+<img src="https://wakatime.com/share/@mares/ea89ba71-f374-40af-930c-e0655909fe37.svg" alt="Coding activity over the last year" />
+
+<h1></h1>
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-156595%20lines%20of%20code-blue)
 
@@ -110,4 +115,3 @@ nemesis-extension        5 hrs 54 mins       █████░░░░░░�
 
  Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
-
