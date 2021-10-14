@@ -43,6 +43,14 @@
 <h2 align="center">Stats :fire:</h2>
 
 <div align="center">
+  <a href="https://wakatime.com/@cfdc0e0d-4860-4b62-9ff0-cb659185525e">
+    <img src="https://wakatime.com/badge/user/cfdc0e0d-4860-4b62-9ff0-cb659185525e.svg" alt="Total time coded since Jun 30 2021" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mareszhar&theme=black-ice&hide_border=true&stroke=FFFFFF15&ring=DF8FFE&fire=DF8FFE&currStreakLabel=DF8FFE&background=1A232A&currStreakNum=86FFAB">
 </div>
 
