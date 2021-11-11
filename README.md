@@ -51,7 +51,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mareszhar&theme=black-ice&hide_border=true&stroke=FFFFFF15&ring=DF8FFE&fire=DF8FFE&currStreakLabel=DF8FFE&background=1A232A&currStreakNum=86FFAB&dates=B1AAB3FF">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mareszhar&theme=black-ice&hide_border=true&stroke=FFFFFF15&ring=DF8FFE&fire=DF8FFE&currStreakLabel=DF8FFE&background=1A232A&currStreakNum=86FFAB">
 </div>
 
 <!-- Add or remove this: &dates=B1AAB3FF at the end of the streak stats URL if they get bugged and aren't updating -->
