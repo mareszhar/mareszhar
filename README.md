@@ -70,7 +70,7 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-168486%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-168502%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
