@@ -70,9 +70,9 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2041%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -86,13 +86,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
+Monday       155 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
 Tuesday      125 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.21% 
 Wednesday    194 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.85% 
 Thursday     222 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
 Friday       197 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
 Saturday     124 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
-Sunday       211 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.24%
+Sunday       207 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.91%
 
 ```
 
@@ -117,5 +117,5 @@ Unknown Project          3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 13/12/2021
+ Last Updated on 14/12/2021
 <!--END_SECTION:waka-->
