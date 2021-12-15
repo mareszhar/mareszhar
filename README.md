@@ -70,7 +70,7 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115%20Thousand%20lines%20of%20code-blue)
 
@@ -87,12 +87,12 @@
 
 ```text
 Monday       160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
-Tuesday      125 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.21% 
+Tuesday      127 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
 Wednesday    194 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.85% 
 Thursday     222 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
 Friday       197 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
 Saturday     124 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
-Sunday       202 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.5%
+Sunday       200 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.34%
 
 ```
 
