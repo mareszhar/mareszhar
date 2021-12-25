@@ -70,7 +70,7 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-124%20Thousand%20lines%20of%20code-blue)
 
@@ -117,5 +117,5 @@ Unknown Project          3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 24/12/2021
+ Last Updated on 25/12/2021
 <!--END_SECTION:waka-->
