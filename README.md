@@ -70,7 +70,7 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-124%20Thousand%20lines%20of%20code-blue)
 
@@ -79,8 +79,8 @@
 ```text
 🌞 Morning    134 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
 🌆 Daytime    345 commits    ██████░░░░░░░░░░░░░░░░░░░   24.21% 
-🌃 Evening    788 commits    █████████████░░░░░░░░░░░░   55.3% 
-🌙 Night      158 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.09%
+🌃 Evening    789 commits    █████████████░░░░░░░░░░░░   55.37% 
+🌙 Night      157 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.02%
 
 ```
 📅 **I'm Most Productive on Sunday** 
