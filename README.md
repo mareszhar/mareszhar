@@ -76,7 +76,7 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-124%20Thousand%20lines%20of%20code-blue)
 
@@ -92,13 +92,13 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       222 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.63% 
+Monday       221 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
 Tuesday      226 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
 Wednesday    273 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
 Thursday     270 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
 Friday       231 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
 Saturday     143 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
-Sunday       264 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.21%
+Sunday       265 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.27%
 
 ```
 
@@ -123,5 +123,5 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/01/2022 02:09:49 UTC
+ Last Updated on 31/01/2022 03:25:18 UTC
 <!--END_SECTION:waka-->
