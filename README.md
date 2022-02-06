@@ -76,6 +76,8 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <h1></h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2051%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-124%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -105,8 +107,8 @@ Sunday       265 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 54 mins       █████████████░░░░░░░░░░░░   54.54% 
-Vue.js                   3 hrs 12 mins       ███████████░░░░░░░░░░░░░░   44.73% 
+TypeScript               3 hrs 54 mins       █████████████░░░░░░░░░░░░   54.56% 
+Vue.js                   3 hrs 12 mins       ███████████░░░░░░░░░░░░░░   44.72% 
 JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49% 
 Sass                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
@@ -120,5 +122,5 @@ nemesis-extension        0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/02/2022 04:26:58 UTC
+ Last Updated on 06/02/2022 04:38:13 UTC
 <!--END_SECTION:waka-->
