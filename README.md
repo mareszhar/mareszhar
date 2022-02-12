@@ -76,7 +76,7 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-124%20Thousand%20lines%20of%20code-blue)
 
@@ -96,9 +96,9 @@ Monday       216 commits    ███░░░░░░░░░░░░░░�
 Tuesday      211 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
 Wednesday    243 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
 Thursday     298 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
-Friday       263 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+Friday       264 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
 Saturday     142 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.71% 
-Sunday       257 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.77%
+Sunday       256 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.71%
 
 ```
 
@@ -121,5 +121,5 @@ animation-coding-tab-menu16 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/02/2022 02:13:42 UTC
+ Last Updated on 12/02/2022 02:24:49 UTC
 <!--END_SECTION:waka-->
