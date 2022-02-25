@@ -76,6 +76,8 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <h1></h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%2025%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-130%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -119,5 +121,5 @@ sneik                    0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/02/2022 04:23:36 UTC
+ Last Updated on 25/02/2022 04:35:02 UTC
 <!--END_SECTION:waka-->
