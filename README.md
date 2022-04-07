@@ -5,7 +5,7 @@
 ### **Interests**
 
 - 🌊 Philosophy (specially [_sentism_][sentismmedium] and its implications).
-- 🎯 The end of suffering and unfairness.
+- 🎯 The end of all forms of suffering.
 - 💸 The future of money.
 - 💼 The future of work.
 - 🧠 Productivity, Habits, & Mindsets.
