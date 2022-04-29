@@ -76,8 +76,6 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2056%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-132%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -120,5 +118,5 @@ ionic                    0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/04/2022 15:30:12 UTC
+ Last Updated on 29/04/2022 16:34:43 UTC
 <!--END_SECTION:waka-->
