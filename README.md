@@ -22,7 +22,7 @@
 
 ### **Projects**
 
-- ⚡ Building [nemesis.run](https://nemesis.run) —an extension that neutralizes the addictive UI patterns of social media.
+- ⚡ Building [nemesis.run](https://chrome.google.com/webstore/detail/nemesis-%E2%80%93-humane-design-f/blfbbifgjgikekfochleknjcopefifgo?hl=en) —an extension that neutralizes the addictive UI patterns of social media.
 - 💎 Maker of [timeboss.app](https://timeboss.app) —an extension that helps people stay productive on YouTube.
 
 
