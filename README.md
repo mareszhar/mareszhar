@@ -76,7 +76,7 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-524%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-524%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-134%20Thousand%20lines%20of%20code-blue)
 
@@ -107,13 +107,15 @@ Sunday       145 commits    ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               █████████████████████████   100.0% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+htlm-intro               1 min               █████████████████████████   100.0% 
+eloquent-js-a-robot      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
- Last Updated on 08/06/2022 16:26:46 UTC
+ Last Updated on 08/06/2022 16:38:48 UTC
 <!--END_SECTION:waka-->
