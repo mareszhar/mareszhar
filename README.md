@@ -76,7 +76,7 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-134%20Thousand%20lines%20of%20code-blue)
 
@@ -107,13 +107,19 @@ Sunday       145 commits    ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 mins             █████████████████████████   100.0%
+JavaScript               1 hr 8 mins         █████████████░░░░░░░░░░░░   55.1% 
+HTML                     39 mins             ████████░░░░░░░░░░░░░░░░░   31.65% 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.96% 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
 
 🐱‍💻 Projects: 
-eloquent-js-a-robot      12 mins             █████████████████████████   100.0%
+htlm-intro               56 mins             ███████████░░░░░░░░░░░░░░   45.66% 
+rock-paper-scissors      55 mins             ███████████░░░░░░░░░░░░░░   44.38% 
+eloquent-js-a-robot      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.96%
 
 ```
 
 
- Last Updated on 28/06/2022 16:34:34 UTC
+ Last Updated on 28/06/2022 16:46:37 UTC
 <!--END_SECTION:waka-->
