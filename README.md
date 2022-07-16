@@ -107,14 +107,13 @@ Sunday       145 commits    ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               47 mins             ███████████████████████░░   94.09% 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.91%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rock-paper-scissors      50 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 16/07/2022 16:34:56 UTC
+ Last Updated on 16/07/2022 16:50:26 UTC
 <!--END_SECTION:waka-->
