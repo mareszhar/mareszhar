@@ -76,7 +76,7 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-148%20Thousand%20lines%20of%20code-blue)
 
@@ -123,5 +123,5 @@ demo-aivcii-tr           13 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/07/2022 22:20:36 UTC
+ Last Updated on 30/07/2022 22:27:11 UTC
 <!--END_SECTION:waka-->
