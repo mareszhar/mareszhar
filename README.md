@@ -76,7 +76,7 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-151%20Thousand%20lines%20of%20code-blue)
 
@@ -122,5 +122,5 @@ pwsd-brutalist-portfolio-1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/08/2022 08:26:18 UTC
+ Last Updated on 11/08/2022 08:37:35 UTC
 <!--END_SECTION:waka-->
