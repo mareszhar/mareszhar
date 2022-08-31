@@ -76,7 +76,7 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-168%20Thousand%20lines%20of%20code-blue)
 
@@ -93,11 +93,11 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 
 ```text
 Monday       228 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Tuesday      239 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
+Tuesday      249 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
 Wednesday    224 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
 Thursday     231 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
 Friday       243 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
-Saturday     129 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
+Saturday     119 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
 Sunday       271 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.32%
 
 ```
@@ -120,5 +120,5 @@ exp-vvext-template       4 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/08/2022 23:55:18 UTC
+ Last Updated on 31/08/2022 02:14:44 UTC
 <!--END_SECTION:waka-->
