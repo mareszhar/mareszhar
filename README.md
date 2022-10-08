@@ -76,7 +76,7 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-168%20Thousand%20lines%20of%20code-blue)
 
@@ -97,8 +97,8 @@ Tuesday      235 commits    ███░░░░░░░░░░░░░░�
 Wednesday    217 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
 Thursday     226 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
 Friday       269 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
-Saturday     118 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.54% 
-Sunday       271 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.32%
+Saturday     119 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
+Sunday       270 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.25%
 
 ```
 
@@ -117,5 +117,5 @@ sjs-code-wars            2 hrs 57 mins       ███████████�
 ```
 
 
- Last Updated on 08/10/2022 20:48:46 UTC
+ Last Updated on 08/10/2022 22:24:18 UTC
 <!--END_SECTION:waka-->
