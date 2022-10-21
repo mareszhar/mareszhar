@@ -76,7 +76,7 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-168%20Thousand%20lines%20of%20code-blue)
 
@@ -118,5 +118,5 @@ sjs-code-wars            15 hrs 32 mins      ███████████�
 ```
 
 
- Last Updated on 20/10/2022 23:41:40 UTC
+ Last Updated on 21/10/2022 01:45:05 UTC
 <!--END_SECTION:waka-->
