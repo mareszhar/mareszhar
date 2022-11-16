@@ -78,7 +78,7 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2057%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-168%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -115,5 +115,5 @@ sjs-code-wars            0 secs              ███████████�
 ```
 
 
- Last Updated on 16/11/2022 10:32:21 UTC
+ Last Updated on 16/11/2022 12:37:01 UTC
 <!--END_SECTION:waka-->
