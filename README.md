@@ -64,9 +64,12 @@ from the *streak stats URL below* if they get bugged and aren't updating:
 
 <br>
 
+<!-- 
+The Widget Below seems to be broken.
+Pending: Review if the original repo is still available...
 <img src="https://activity-graph.herokuapp.com/graph?username=mareszhar&theme=nord&bg_color=00000000&color=979797&line=DF8FFE&point=00000000&area=true&hide_border=true">
 
-<br>
+<br> -->
 
 <h1></h1>
 
