@@ -83,7 +83,7 @@ Pending: Review if the original repo is still available...
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2047%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-777%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -120,5 +120,5 @@ sjs-code-wars            0 secs              ███████████�
 ```
 
 
- Last Updated on 16/02/2023 20:36:19 UTC
+ Last Updated on 16/02/2023 22:15:47 UTC
 <!--END_SECTION:waka-->
