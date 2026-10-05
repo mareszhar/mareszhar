@@ -25,7 +25,7 @@
 <!--
 - ⚡ Building [Nemesis](https://chrome.google.com/webstore/detail/nemesis-%E2%80%93-humane-design-f/blfbbifgjgikekfochleknjcopefifgo?hl=en) —an extension that neutralizes the addictive UI patterns of social media.
 -->
-- 💎 Maker of [Time BOSS](https://chrome.google.com/webstore/detail/time-boss/jgdbocfilggfapdpgpnidfaoiddjbiab?hl=en-US) —an extension that helps people stay productive on YouTube.
+- 💎 Maker of [Time BOSS](https://timeboss.app/) —an extension that helps people stay productive on YouTube.
 
 
 ### **Say Hi :)**
