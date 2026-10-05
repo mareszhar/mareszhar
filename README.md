@@ -60,8 +60,9 @@ Add or remove this:
 from the *streak stats URL below* if they get bugged and aren't updating: 
 -->
 
-<div align="center">
+<!-- disable streak widget due to slow reactivity -->
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mareszhar&theme=black-ice&hide_border=true&stroke=FFFFFF15&ring=DF8FFE&fire=DF8FFE&currStreakLabel=DF8FFE&background=1A232A&currStreakNum=86FFAB&dates=B1AAB3FF&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
-<br>
+<br> -->
